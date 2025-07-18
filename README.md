@@ -37,7 +37,7 @@ seaborn>=0.11.0
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis-tool.git
+git clone https://github.com/saketh-nandu/sentiment-analysis-tool.git
 cd sentiment-analysis-tool
 ```
 
@@ -196,10 +196,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Author**: Saketh Mantol
+- **Email**: mantolsaketh@gmail.com
+- **LinkedIn**: [Saketh Mantol](https://www.linkedin.com/in/saketh-mantol-31990a351/)
+- **GitHub**: [@saketh-nandu](https://github.com/saketh-nandu)
 
 ---
 
